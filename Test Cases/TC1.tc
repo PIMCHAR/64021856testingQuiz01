@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testcase login function
+TC1.1-TC1.6</description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e38de95-7aa7-4ebc-99e0-4f108b101c42</testCaseGuid>
+</TestCaseEntity>
